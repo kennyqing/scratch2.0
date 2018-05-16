@@ -1,0 +1,30 @@
+{
+	"objName": "Robot",
+	"sounds": [{
+				"soundName": "laser2",
+				"soundID": 1,
+				"md5": "27654ed2e3224f0a3f77c244e4fae9aa.wav",
+				"sampleCount": 755,
+				"rate": 11025,
+				"format": ""
+			}],
+	"costumes": [{
+			"costumeName": "Robot",
+			"baseLayerID": -1,
+			"baseLayerMD5": "Robot.svg",
+			"bitmapResolution": 1,
+			"rotationCenterX": 47,
+			"rotationCenterY": 50
+		}],
+	"currentCostumeIndex": 0,
+	"scratchX": 0,
+	"scratchY": 0,
+	"scale": 1,
+	"direction": 90,
+	"rotationStyle": "normal",
+	"isDraggable": false,
+	"indexInLibrary": 100000,
+	"visible": true,
+	"spriteInfo": {
+	}
+}

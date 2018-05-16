@@ -1,0 +1,3526 @@
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "简体中文"
+
+msgid "%b and %b"
+msgstr "%b 且 %b"
+
+msgid "%b or %b"
+msgstr "%b 或 %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage 的 %m.attribute"
+
+msgid "%m.list contains %s"
+msgstr "%m.list 包含 %s ?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor 传感器的值"
+
+msgid "%n mod %n"
+msgstr "%n 除以 %n 的余数"
+
+msgid "add %s to %m.list"
+msgstr "将 %s 加到链表 %m.list 末尾"
+
+msgid "answer"
+msgstr "回答"
+
+msgid "ask %s and wait"
+msgstr "询问 %s 并等待"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "背景 #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "背景名称"
+
+msgid "Hello!"
+msgstr "你好！"
+
+msgid "Hmm..."
+msgstr "呃..."
+
+msgid "broadcast %m.broadcast"
+msgstr "广播 %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "广播 %m.broadcast 并等待"
+
+msgid "change %m.effect effect by %n"
+msgstr "将 %m.effect 特效增加 %n"
+
+msgid "change %m.var by %n"
+msgstr "将变量 %m.var 的值增加 %n"
+
+msgid "change pen color by %n"
+msgstr "将画笔的颜色值增加 %n"
+
+msgid "change pen shade by %n"
+msgstr "将画笔的色度增加 %n"
+
+msgid "change pen size by %n"
+msgstr "将画笔的大小增加 %n"
+
+msgid "change size by %n"
+msgstr "将角色的大小增加 %n"
+
+msgid "change tempo by %n"
+msgstr "将节奏加快 %n"
+
+msgid "change volume by %n"
+msgstr "将音量增加 %n"
+
+msgid "change x by %n"
+msgstr "将x坐标增加 %n"
+
+msgid "change y by %n"
+msgstr "将y坐标增加 %n"
+
+msgid "clear"
+msgstr "清空"
+
+msgid "clear graphic effects"
+msgstr "清除所有图形特效"
+
+msgid "color %c is touching %c?"
+msgstr "颜色 %c 碰到 %c?"
+
+msgid "Control"
+msgstr "控制"
+
+msgid "costume #"
+msgstr "造型 #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "克隆 %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "当前时间 %m.timeAndDate"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "days since 2000"
+msgstr "2000年之后的天数"
+
+msgid "define"
+msgstr "定义"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "删除第 %d.listDeleteItem 项，从链表: %m.list "
+
+msgid "delete this clone"
+msgstr "删除本克隆体"
+
+msgid "direction"
+msgstr "方向"
+
+msgid "distance"
+msgstr "距离"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "到 %m.spriteOrMouse 的距离"
+
+msgid "else"
+msgstr "否则"
+
+msgid "Events"
+msgstr "事件"
+
+msgid "forever"
+msgstr "重复执行"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "在 %n 秒内滑行到 x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "下移 %n 层"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "移到 %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "移至最上层"
+
+msgid "go to x:%n y:%n"
+msgstr "移到 x:%n y:%n"
+
+msgid "hide"
+msgstr "隐藏"
+
+msgid "hide list %m.list"
+msgstr "隐藏链表 %m.list"
+
+msgid "hide variable %m.var"
+msgstr "隐藏变量 %m.var"
+
+msgid "if %b then"
+msgstr "如果 %b 那么"
+
+msgid "if on edge, bounce"
+msgstr "碰到边缘就反弹"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "插入: %s 位置: %d.listItem 到链表: %m.list "
+
+msgid "item %d.listItem of %m.list"
+msgstr "第 %d.listItem 项 %m.list"
+
+msgid "join %s %s"
+msgstr "将 %s 加到 %s 的后面"
+
+msgid "key %m.key pressed?"
+msgstr "按键 %m.key 是否按下？"
+
+msgid "length of %m.list"
+msgstr "链表 %m.list 的长度"
+
+msgid "length of %s"
+msgstr "%s 的长度"
+
+msgid "letter %n of %s"
+msgstr "第 %n 个字符： %s"
+
+msgid "Looks"
+msgstr "外观"
+
+msgid "loudness"
+msgstr "响度"
+
+msgid "More Blocks"
+msgstr "更多模块"
+
+msgid "Motion"
+msgstr "动作"
+
+msgid "mouse down?"
+msgstr "点击鼠标？"
+
+msgid "mouse x"
+msgstr "鼠标的x坐标"
+
+msgid "mouse y"
+msgstr "鼠标的y坐标"
+
+msgid "move %n steps"
+msgstr "移动 %n 步"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "下一个背景"
+
+msgid "previous backdrop"
+msgstr "前一个背景"
+
+msgid "next costume"
+msgstr "下一个造型"
+
+msgid "not %b"
+msgstr "%b 不成立"
+
+msgid "Operators"
+msgstr "数字和逻辑运算"
+
+msgid "Pen"
+msgstr "画笔"
+
+msgid "pen down"
+msgstr "落笔"
+
+msgid "pen up"
+msgstr "抬笔"
+
+msgid "pick random %n to %n"
+msgstr "在 %n 到 %n 间随机选一个数"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "弹奏鼓声 %d.drum %n 拍"
+
+# 83%
+msgid "play note %d.note for %n beats"
+msgstr "弹奏音符 %d.note %n 拍"
+
+msgid "play sound %m.sound"
+msgstr "播放声音 %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "播放声音 %m.sound 直到播放完毕"
+
+msgid "point in direction %d.direction"
+msgstr "面向 %d.direction 方向"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "面向 %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "重复执行 %n 次"
+
+msgid "repeat until %b"
+msgstr "重复执行直到 %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "替换位置：%d.listItem 链表: %m.list 内容: %s"
+
+msgid "reset timer"
+msgstr "计时器归零"
+
+msgid "rest for %n beats"
+msgstr "停止 %n 拍"
+
+msgid "round %n"
+msgstr "将 %n 四舍五入"
+
+msgid "say %s"
+msgstr "说 %s"
+
+msgid "say %s for %n secs"
+msgstr "说 %s %n 秒"
+
+msgid "Sensing"
+msgstr "侦测"
+
+msgid "What's your name?"
+msgstr "你叫什么名字"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "传感器 %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "将 %m.effect 特效设定为 %n"
+
+msgid "set %m.var to %s"
+msgstr "将 %m.var 设定为 %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "设定乐器为 %d.instrument"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "马达转动方向设定为 %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "将马达功率设定为 %n"
+
+msgid "set pen color to %c"
+msgstr "将画笔的颜色设定为 %c"
+
+msgid "set pen color to %n"
+msgstr "将画笔的颜色设定为 %n"
+
+msgid "set pen shade to %n"
+msgstr "将画笔的色度设定为 %n"
+
+msgid "set pen size to %n"
+msgstr "将画笔的大小设定为 %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "将旋转模式设定为 %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "将角色的大小设定为 %n"
+
+msgid "set tempo to %n bpm"
+msgstr "将节奏设定为 %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "将视频透明度设置为 %n%"
+
+msgid "set volume to %n%"
+msgstr "将音量设定为 %n"
+
+msgid "set x to %n"
+msgstr "将x坐标设定为 %n"
+
+msgid "set y to %n"
+msgstr "将y坐标设定为 %n"
+
+msgid "show"
+msgstr "显示"
+
+msgid "show list %m.list"
+msgstr "显示链表 %m.list"
+
+msgid "show variable %m.var"
+msgstr "显示变量 %m.var"
+
+msgid "size"
+msgstr "大小"
+
+msgid "Sound"
+msgstr "声音"
+
+msgid "stamp"
+msgstr "图章"
+
+msgid "stop %m.stop"
+msgstr "停止 %m.stop"
+
+msgid "stop all sounds"
+msgstr "停止所有声音"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "将背景切换为 %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "将背景切换为 %m.backdrop 并等待"
+
+msgid "switch costume to %m.costume"
+msgstr "将造型切换为 %m.costume"
+
+msgid "tempo"
+msgstr "节奏"
+
+msgid "think %s"
+msgstr "思考 %s"
+
+msgid "think %s for %n secs"
+msgstr "思考 %s %n 秒"
+
+msgid "tilt"
+msgstr "倾斜"
+
+msgid "timer"
+msgstr "计时器"
+
+msgid "touching %m.touching?"
+msgstr "碰到%m.touching?"
+
+msgid "touching color %c?"
+msgstr "碰到颜色%c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "向左旋转 @turnLeft %n 度"
+
+msgid "turn @turnRight %n degrees"
+msgstr "向右旋转 @turnRight %n 度"
+
+msgid "turn motor off"
+msgstr "关闭马达"
+
+msgid "turn motor on"
+msgstr "开启马达"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "启动马达 %n 秒"
+
+msgid "turn video %m.videoState"
+msgstr "将摄像头 %m.videoState"
+
+msgid "username"
+msgstr "用户名"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "视频侦测 %m.videoMotionType 在 %m.stageOrThis 上"
+
+msgid "volume"
+msgstr "音量"
+
+msgid "wait %n secs"
+msgstr "等待 %n 秒"
+
+msgid "wait until %b"
+msgstr "在 %b 之前一直等待"
+
+# 75%
+msgid "when %m.booleanSensor"
+msgstr "当 %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "当按下 %m.key"
+
+msgid "when %m.key key released"
+msgstr "当松开 %m.key"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "当 %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "当 @greenFlag 被点击"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "当背景切换到 %m.backdrop"
+
+msgid "when distance < %n"
+msgstr "当距离 < %n"
+
+msgid "when I receive %m.broadcast"
+msgstr "当接收到 %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "当作为克隆体启动时"
+
+msgid "when this sprite clicked"
+msgstr "当角色被点击时"
+
+msgid "when tilt = %n"
+msgstr "当倾角 = %n"
+
+msgid "x position"
+msgstr "x座标"
+
+msgid "y position"
+msgstr "y座标"
+
+#~ msgid "user id"
+#~ msgstr "用户名"
+
+#~ msgid "clone startup"
+#~ msgstr "克隆设置"
+
+#~ msgid "forever if %b"
+#~ msgstr "如果 %b 就重复执行"
+
+#~ msgid "hide all sprites"
+#~ msgstr "隐藏所有角色"
+
+#~ msgid "if %b"
+#~ msgstr "如果 %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch天数"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "隐藏监视器 %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "马达转动方向 %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "关闭马达"
+
+#~ msgid "motor on"
+#~ msgstr "启动马达"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "启动马达 %n 秒"
+
+#~ msgid "motor power %n"
+#~ msgstr "将马达功率设定为 %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "弹奏音符 %d.note %n 拍"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "显示监视器 %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "点击我时"
+
+##################
+# User Interface #
+##################
+msgid "10 ^"
+msgstr "10 ^"
+
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请"
+"参考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
+
+msgid "A connected"
+msgstr "A已连接"
+
+msgid "a copy of the project file on your computer."
+msgstr "您计算机上的项目文件的副本。"
+
+msgid "abs"
+msgstr "绝对值"
+
+msgid "Account settings"
+msgstr "帐号设置"
+
+msgid "acos"
+msgstr "acos"
+
+# 90%
+msgid "Add boolean input:"
+msgstr "添加一个布尔参数："
+
+msgid "add comment"
+msgstr "添加注释"
+
+msgid "Add label text:"
+msgstr "添加文本标签："
+
+# 89%
+msgid "Add number input:"
+msgstr "添加一个数字参数："
+
+# 89%
+msgid "Add string input:"
+msgstr "添加一个字符串参数："
+
+msgid "All"
+msgstr "全部"
+
+msgid "all"
+msgstr "全部"
+
+msgid "all around"
+msgstr "任意"
+
+msgid "Animal"
+msgstr "动物"
+
+msgid "Animals"
+msgstr "动物"
+
+msgid "asin"
+msgstr "asin"
+
+msgid "assets loaded"
+msgstr "资源已装载"
+
+msgid "atan"
+msgstr "atan"
+
+msgid "B connected"
+msgstr "B已连接"
+
+msgid "Back a layer"
+msgstr "下移一层"
+
+# 88%
+# 87%
+msgid "Backdrop"
+msgstr "背景"
+
+# 88%
+msgid "backdrop"
+msgstr "背景"
+
+msgid "backdrop #"
+msgstr "背景编号"
+
+msgid "Backdrop Library"
+msgstr "背景库"
+
+msgid "backdrop name"
+msgstr "背景名称"
+
+msgid "backdrop1"
+msgstr "背景1"
+
+# 88%
+msgid "backdrops"
+msgstr "背景"
+
+# 88%
+msgid "Backdrops"
+msgstr "背景"
+
+msgid "Backpack"
+msgstr "书包"
+
+msgid "Bass"
+msgstr "低音"
+
+msgid "Bass Drum"
+msgstr "低音鼓"
+
+msgid "Bassoon"
+msgstr "低音管"
+
+msgid "Bitmap"
+msgstr "位图"
+
+msgid "Bitmap Mode"
+msgstr "位图模式"
+
+msgid "Block help"
+msgstr "功能块帮助"
+
+msgid "Bongo"
+msgstr "小手鼓"
+
+msgid "brightness"
+msgstr "亮度"
+
+msgid "Bring to front"
+msgstr "移到第一层"
+
+msgid "Broadcast"
+msgstr "广播"
+
+msgid "Brush"
+msgstr "画笔"
+
+msgid "button pressed"
+msgstr "按钮已按下"
+
+msgid "by"
+msgstr "由"
+
+msgid "bytes loaded"
+msgstr "字节已装载"
+
+msgid "C connected"
+msgstr "C已连接"
+
+msgid "Cabasa"
+msgstr "抓筒"
+
+msgid "Camera"
+msgstr "照相"
+
+msgid "can drag in player:"
+msgstr "可以在播放器中拖动:"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot Delete"
+msgstr "不能删除"
+
+msgid "Can’t find network connection or reach server."
+msgstr "找不到网络连接或服务器连接不上。"
+
+msgid "Castle"
+msgstr "古堡"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "ceiling"
+msgstr "向上取整"
+
+msgid "Cello"
+msgstr "大提琴"
+
+msgid "Choir"
+msgstr "人声合唱"
+
+msgid "Choose backdrop from library"
+msgstr "从背景库中选择背景"
+
+msgid "Choose costume from library"
+msgstr "从造型库中选取造型"
+
+msgid "Choose sound from library"
+msgstr "从声音库中选取声音"
+
+msgid "Choose sprite from library"
+msgstr "从角色库中选取角色"
+
+msgid "Circle"
+msgstr "圆"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Clarinet"
+msgstr "单簧管"
+
+msgid "Claves"
+msgstr "古钢琴"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "clear senders/receivers"
+msgstr "清除发送器/接收器"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "点击  重新尝试或  保存"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Closed Hi-Hat"
+msgstr "闭合双面钹"
+
+msgid "Cloud"
+msgstr "云"
+
+msgid "Cloud data"
+msgstr "云数据"
+
+msgid "color"
+msgstr "颜色"
+
+msgid "Color a shape"
+msgstr "为形状填色"
+
+msgid "Conga"
+msgstr "康加鼓"
+
+msgid "Connecting to Cloud data server..."
+msgstr "正在连接云数据服务器..."
+
+msgid "Convert to bitmap"
+msgstr "转换成位图编辑模式"
+
+msgid "Convert to vector"
+msgstr "转换成矢量编辑模式"
+
+msgid "Converting mp3..."
+msgstr "正在转换mp3..."
+
+msgid "copy"
+msgstr "复制"
+
+msgid "Copying..."
+msgstr "正在复制..."
+
+msgid "cos"
+msgstr "cos"
+
+# 75%
+msgid "Costume"
+msgstr "造型"
+
+msgid "costume #"
+msgstr "造型编号"
+
+msgid "Costume Library"
+msgstr "造型库"
+
+msgid "costume name"
+msgstr "造型名称"
+
+msgid "costume1"
+msgstr "造型1"
+
+# 87%
+msgid "costume2"
+msgstr "造型2"
+
+# 75%
+msgid "Costumes"
+msgstr "造型"
+
+msgid "Costumes > 1"
+msgstr "造型数 > 1"
+
+# 75%
+# 88%
+msgid "Costumes:"
+msgstr "造型："
+
+msgid "Cowbell"
+msgstr "牛铃"
+
+msgid "Crash Cymbal"
+msgstr "击钹"
+
+msgid "Creating..."
+msgstr "创建中..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "目前，云变量只能保存数字类型的数据。"
+
+msgid "cut"
+msgstr "剪切"
+
+msgid "D connected"
+msgstr "D已连接"
+
+msgid "date"
+msgstr "日期"
+
+msgid "day of week"
+msgstr "星期"
+
+# 83%
+msgid "Delete"
+msgstr "删除"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "delete variable"
+msgstr "删除变量"
+
+msgid "direction"
+msgstr "方向"
+
+# 90%
+msgid "direction:"
+msgstr "方向:"
+
+msgid "don't rotate"
+msgstr "不旋转"
+
+msgid "down"
+msgstr "下移"
+
+msgid "down arrow"
+msgstr "下移键"
+
+msgid "Download to your computer"
+msgstr "下载到您的计算机"
+
+msgid "duplicate"
+msgstr "复制"
+
+msgid "Duplicate"
+msgstr "复制"
+
+msgid "e ^"
+msgstr "e ^"
+
+msgid "edge"
+msgstr "边缘"
+
+msgid "edit"
+msgstr "编辑"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Block"
+msgstr "编辑功能块"
+
+msgid "Effects"
+msgstr "效果"
+
+msgid "Electric Guitar"
+msgstr "电吉他"
+
+msgid "Electric Piano"
+msgstr "电子琴"
+
+msgid "Electronic"
+msgstr "电子声"
+
+msgid "Ellipse"
+msgstr "椭圆"
+
+msgid "Erase"
+msgstr "擦除"
+
+msgid "Eraser width:"
+msgstr "橡皮擦宽度:"
+
+msgid "fade in"
+msgstr "淡入"
+
+msgid "fade out"
+msgstr "淡出"
+
+msgid "Fantasy"
+msgstr "奇幻"
+
+msgid "Features"
+msgstr "特点"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Fill with color"
+msgstr "用颜色填充"
+
+msgid "fisheye"
+msgstr "超广角镜头"
+
+msgid "Flip left-right"
+msgstr "左右翻转"
+
+msgid "Flip up-down"
+msgstr "上下翻转"
+
+msgid "floor"
+msgstr "向下取整"
+
+msgid "Flute"
+msgstr "长笛"
+
+msgid "Flying"
+msgstr "飞行"
+
+msgid "For all sprites"
+msgstr "适用于所有角色"
+
+msgid "For this sprite only"
+msgstr "仅适用于当前角色"
+
+msgid "Forward a layer"
+msgstr "上移一层"
+
+msgid "ghost"
+msgstr "虚像"
+
+msgid "Go to My Stuff"
+msgstr "转到个人项目中心"
+
+msgid "Group"
+msgstr "分组"
+
+msgid "Grow"
+msgstr "放大"
+
+msgid "Guiro"
+msgstr "锯琴"
+
+msgid "Guitar"
+msgstr "吉他"
+
+msgid "Hand Clap"
+msgstr "拍掌"
+
+msgid "hide"
+msgstr "隐藏"
+
+msgid "hour"
+msgstr "小时"
+
+msgid "Human"
+msgstr "人声"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Importing sound..."
+msgstr "导入声音..."
+
+msgid "Indoors"
+msgstr "室内"
+
+msgid "Installing..."
+msgstr "正在安装..."
+
+msgid "Instruments"
+msgstr "乐器"
+
+msgid "last"
+msgstr "末尾"
+
+msgid "left"
+msgstr "左"
+
+msgid "left arrow"
+msgstr "左移键"
+
+msgid "left-right"
+msgstr "左-右翻转"
+
+msgid "Library"
+msgstr "库"
+
+msgid "light"
+msgstr "光线"
+
+msgid "limit reached"
+msgstr "已达到限制"
+
+msgid "Line"
+msgstr "线段"
+
+msgid "Line width"
+msgstr "线宽"
+
+# 75%
+msgid "list"
+msgstr "链表"
+
+msgid "List name"
+msgstr "链表名称"
+
+msgid "ln"
+msgstr "ln"
+
+msgid "Loading project..."
+msgstr "正在装载项目..."
+
+msgid "log"
+msgstr "log"
+
+msgid "louder"
+msgstr "响一点"
+
+msgid "loudness"
+msgstr "响度"
+
+msgid "Make a Block"
+msgstr "新建函数"
+
+msgid "New Block"
+msgstr "新建函数"
+
+msgid "Make a List"
+msgstr "新建链表"
+
+msgid "Make a Variable"
+msgstr "新建变量"
+
+msgid "Marimba"
+msgstr "立奏木琴"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "meow"
+msgstr "喵"
+
+msgid "Message Name"
+msgstr "消息名称"
+
+msgid "message1"
+msgstr "消息1"
+
+msgid "Min"
+msgstr "最小"
+
+msgid "minute"
+msgstr "分"
+
+msgid "month"
+msgstr "月"
+
+msgid "mosaic"
+msgstr "马赛克"
+
+msgid "motion"
+msgstr "动作"
+
+msgid "mouse-pointer"
+msgstr "鼠标指针"
+
+msgid "Multiple"
+msgstr "多个"
+
+msgid "Music and Dance"
+msgstr "音乐和舞蹈"
+
+msgid "Music Box"
+msgstr "音乐盒"
+
+msgid "Music Loops"
+msgstr "循环音乐"
+
+msgid "My Stuff"
+msgstr "我的项目中心"
+
+msgid "myself"
+msgstr "自己"
+
+msgid "Nature"
+msgstr "自然"
+
+msgid "New"
+msgstr "新建项目"
+
+msgid "New backdrop from camera"
+msgstr "拍摄照片当作背景"
+
+# 92%
+msgid "New backdrop:"
+msgstr "新建背景"
+
+msgid "New costume from camera"
+msgstr "拍摄照片当作造型"
+
+# 91%
+msgid "New costume:"
+msgstr "新建造型"
+
+msgid "New List"
+msgstr "新建链表"
+
+msgid "new message..."
+msgstr "新消息..."
+
+msgid "New name"
+msgstr "新名称"
+
+# 90%
+msgid "New sound:"
+msgstr "新建声音"
+
+msgid "New sprite from camera"
+msgstr "拍摄照片当作角色"
+
+msgid "New sprite:"
+msgstr "新建角色:"
+
+msgid "New Variable"
+msgstr "新建变量"
+
+msgid "No motion blocks"
+msgstr "无动作模块"
+
+msgid "Not saved; network or server problem."
+msgstr "保存失败，可能是网络或服务器出了问题。"
+
+msgid "of"
+msgstr "的"
+
+msgid "off"
+msgstr "关闭"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "on"
+msgstr "开启"
+
+msgid "on-flipped"
+msgstr "以左右翻转模式开启"
+
+msgid "Open Cuica"
+msgstr "库加鼓-开音"
+
+msgid "Open Hi-Hat"
+msgstr "开放双面钹"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Organ"
+msgstr "风琴"
+
+msgid "Other"
+msgstr "其它"
+
+# 82%
+msgid "other scripts in sprite"
+msgstr "角色的其他脚本"
+
+msgid "Outdoors"
+msgstr "户外"
+
+msgid "Paint new backdrop"
+msgstr "绘制新背景"
+
+msgid "Paint new costume"
+msgstr "绘制新造型"
+
+msgid "Paint new sprite"
+msgstr "绘制新角色"
+
+msgid "paste"
+msgstr "粘贴"
+
+msgid "Pencil"
+msgstr "铅笔"
+
+msgid "People"
+msgstr "人物"
+
+msgid "Percussion"
+msgstr "打击乐"
+
+msgid "photo1"
+msgstr "照片1"
+
+msgid "Piano"
+msgstr "钢琴"
+
+# 92%
+msgid "Pick up color"
+msgstr "取色"
+
+msgid "pixelate"
+msgstr "像素滤镜"
+
+msgid "Pizzicato"
+msgstr "拨奏曲"
+
+msgid "pop"
+msgstr "pop音效"
+
+msgid "Profile"
+msgstr "资料"
+
+msgid "Project not saved!"
+msgstr "项目未保存!"
+
+msgid "random"
+msgstr "随机"
+
+msgid "Record"
+msgstr "录音"
+
+msgid "Record new sound"
+msgstr "录制新声音"
+
+msgid "recording1"
+msgstr "录音1"
+
+msgid "Rectangle"
+msgstr "矩形"
+
+# 75%
+msgid "Redo"
+msgstr "重做"
+
+msgid "redo"
+msgstr "重做"
+
+msgid "Remix"
+msgstr "再创作"
+
+msgid "Remixing..."
+msgstr "再创作中..."
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "rename variable"
+msgstr "重命名变量"
+
+msgid "requires sign in"
+msgstr "需要登录"
+
+msgid "Reshape"
+msgstr "变形"
+
+msgid "resistance-A"
+msgstr "阻力-A"
+
+msgid "resistance-B"
+msgstr "阻力-B"
+
+msgid "resistance-C"
+msgstr "阻力-C"
+
+msgid "resistance-D"
+msgstr "阻力-D"
+
+msgid "reverse"
+msgstr "反转"
+
+msgid "Revert"
+msgstr "恢复到原始状态"
+
+msgid "Reverting..."
+msgstr "正在将项目恢复到原始状态..."
+
+msgid "right"
+msgstr "右"
+
+msgid "right arrow"
+msgstr "右移键"
+
+msgid "rotation style:"
+msgstr "旋转模式："
+
+msgid "Run without screen refresh"
+msgstr "运行时不刷新屏幕"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save as a copy"
+msgstr "保存副本"
+
+msgid "Save now"
+msgstr "立即保存"
+
+msgid "save to local file"
+msgstr "保存到本地文件"
+
+msgid "Saved"
+msgstr "已保存"
+
+msgid "Saving changes..."
+msgstr "正在保存修改..."
+
+msgid "Saving..."
+msgstr "正在保存..."
+
+msgid "Saxophone"
+msgstr "萨克斯管"
+
+# 85%
+msgid "Script"
+msgstr "脚本"
+
+msgid "Scripts"
+msgstr "脚本"
+
+# 87%
+msgid "Scripts:"
+msgstr "脚本："
+
+msgid "second"
+msgstr "秒"
+
+msgid "See project page"
+msgstr "见项目页"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "select all"
+msgstr "全选"
+
+msgid "Select and duplicate"
+msgstr "选择并复制"
+
+msgid "Send to back"
+msgstr "移到最下层"
+
+# 88%
+msgid "Set costume center"
+msgstr "设置造型中心"
+
+msgid "Set Costume Center"
+msgstr "设置造型中心"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "shared"
+msgstr "共享"
+
+msgid "Shift:"
+msgstr "Shift:"
+
+msgid "show"
+msgstr "显示"
+
+msgid "show receivers"
+msgstr "显示接收者"
+
+msgid "show senders"
+msgstr "显示发送者"
+
+msgid "show:"
+msgstr "显示:"
+
+msgid "Shrink"
+msgstr "缩小"
+
+msgid "Side Stick"
+msgstr "鼓边敲击"
+
+msgid "Sign in"
+msgstr "登录"
+
+msgid "Sign in to save"
+msgstr "登录后再保存"
+
+msgid "Sign out"
+msgstr "退出系统"
+
+msgid "silence"
+msgstr "无声"
+
+msgid "sin"
+msgstr "sin"
+
+msgid "size"
+msgstr "大小"
+
+msgid "slider"
+msgstr "滑杆"
+
+msgid "Slider Range"
+msgstr "滑杆值范围"
+
+msgid "Small stage layout"
+msgstr "小舞台布局模式"
+
+msgid "Smooth"
+msgstr "光滑"
+
+msgid "Snare Drum"
+msgstr "小军鼓"
+
+msgid "softer"
+msgstr "轻一点"
+
+msgid "sound"
+msgstr "声音"
+
+# 80%
+msgid "Sound"
+msgstr "声音"
+
+msgid "Sound Library"
+msgstr "声音库"
+
+# 80%
+# 83%
+msgid "Sounds"
+msgstr "声音"
+
+msgid "space"
+msgstr "空格键"
+
+# 80%
+msgid "Space"
+msgstr "太空"
+
+msgid "Sports"
+msgstr "运动"
+
+# 85%
+msgid "Sprite"
+msgstr "角色"
+
+msgid "Sprite Library"
+msgstr "角色库"
+
+# 85%
+msgid "Sprite1"
+msgstr "角色1"
+
+msgid "Sprites"
+msgstr "角色"
+
+msgid "sqrt"
+msgstr "平方根"
+
+msgid "Square"
+msgstr "正方形"
+
+msgid "Stage"
+msgstr "舞台"
+
+# 93%
+msgid "Stage selected:"
+msgstr "选中的舞台"
+
+msgid "Steel Drum"
+msgstr "钢鼓"
+
+msgid "stored on server"
+msgstr "保存在服务器上"
+
+msgid "Synth Lead"
+msgstr "合成领奏"
+
+msgid "Synth Pad"
+msgstr "合成长音"
+
+msgid "Tambourine"
+msgstr "铃鼓"
+
+msgid "tan"
+msgstr "tan"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "that way"
+msgstr "逆时针"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Things"
+msgstr "物品"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr "本项目可以通过“用户名”功能块检测到使用者信息。如果想隐藏您的个人身份，请退出登录后再运行本项目。"
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr "本项目使用云数据 - 云数据只有登录后的用户方可访问。"
+
+msgid "this script"
+msgstr "当前脚本"
+
+msgid "this sprite"
+msgstr "角色"
+
+msgid "this way"
+msgstr "顺时针"
+
+msgid "Throw away all changes since opening this project?"
+msgstr "丢弃本次项目打开后的所有改变？"
+
+msgid "timer"
+msgstr "计时器"
+
+msgid "Tips"
+msgstr "帮助"
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr "要删除一个模块定义，首先要删除所有对该模块的引用。"
+
+msgid "Transportation"
+msgstr "运输工具"
+
+msgid "Triangle"
+msgstr "三角形"
+
+msgid "Trombone"
+msgstr "长号"
+
+# 90%
+msgid "Turbo mode"
+msgstr "动画加速模式"
+
+msgid "Turbo Mode"
+msgstr "动画加速模式"
+
+msgid "Type"
+msgstr "类型"
+
+# 75%
+msgid "Undelete"
+msgstr "撤消删除"
+
+msgid "Underwater"
+msgstr "水下"
+
+# 75%
+msgid "Undo"
+msgstr "撤销"
+
+msgid "undo"
+msgstr "撤销"
+
+msgid "Undo Revert"
+msgstr "撤消恢复原状"
+
+msgid "Ungroup"
+msgstr "取消分组"
+
+msgid "unshared"
+msgstr "独享的"
+
+msgid "up"
+msgstr "向上"
+
+msgid "up arrow"
+msgstr "上移键"
+
+msgid "Upload backdrop from file"
+msgstr "从本地文件中上传背景"
+
+msgid "Upload costume from file"
+msgstr "从本地文件中上传造型"
+
+msgid "Upload from your computer"
+msgstr "从您的计算机中上传"
+
+msgid "Upload sound from file"
+msgstr "从本地文件中上传声音"
+
+msgid "Upload sprite from file"
+msgstr "从本地文件中上传角色"
+
+msgid "Uploading image..."
+msgstr "正在上传图像..."
+
+msgid "Uploading sound..."
+msgstr "正在上传声音文件..."
+
+msgid "Uploading sprite..."
+msgstr "正在上传角色..."
+
+msgid "variable"
+msgstr "变量"
+
+msgid "Variable name"
+msgstr "变量名"
+
+msgid "Vector"
+msgstr "矢量"
+
+msgid "Vector Mode"
+msgstr "矢量模式"
+
+msgid "Vibraphone"
+msgstr "抖音琴"
+
+msgid "Vibraslap"
+msgstr "颤击"
+
+msgid "video motion"
+msgstr "视频移动"
+
+msgid "Video on:"
+msgstr "开启视频:"
+
+msgid "Vocals"
+msgstr "声乐"
+
+msgid "volume"
+msgstr "音量"
+
+msgid "Walking"
+msgstr "行走"
+
+msgid "Want to save? Click remix"
+msgstr "您想保存吗？请点击再创作"
+
+msgid "Which column do you want to import"
+msgstr "想导入哪一列"
+
+msgid "whirl"
+msgstr "旋转"
+
+msgid "Wood Block"
+msgstr "木块"
+
+msgid "Wooden Flute"
+msgstr "木笛"
+
+msgid "x position"
+msgstr "x坐标"
+
+msgid "y position"
+msgstr "y坐标"
+
+msgid "year"
+msgstr "年"
+
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr "您不能修改其它用户项目中的云变量。<br>本次编辑过程中的所有修改都是临时且不能永久保存的。"
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "输入一个布尔值："
+
+#~ msgid "Add a number input:"
+#~ msgstr "输入一个数字："
+
+#~ msgid "Add a string input:"
+#~ msgstr "输入一个字符串："
+
+msgid "Back a layer (Shift: Send to back)"
+msgstr "退后一层 (Shift键：置为底层)"
+
+msgid "Duplicate (Shift: Multiple)"
+msgstr "复制 (Shift键：多重复制)"
+
+msgid "Ellipse (Shift: Circle)"
+msgstr "椭圆形 (Shift键:圆形)"
+
+# 75%
+#~ msgid "Fill"
+#~ msgstr "填充"
+
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "向前一层 (Shift键：置于顶层)"
+
+#~ msgid "login"
+#~ msgstr "登入"
+
+#~ msgid "New backdrop"
+#~ msgstr "新增背景"
+
+#~ msgid "New costume"
+#~ msgstr "新增造型"
+
+#~ msgid "New sound"
+#~ msgstr "新增声音"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "新增角色"
+
+#~ msgid "Paint"
+#~ msgstr "绘图"
+
+#~ msgid "Pick up Color"
+#~ msgstr "取色"
+
+msgid "Rectangle (Shift: Square)"
+msgstr "长方形 (Shift键：正方形)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Scratch猫"
+
+#~ msgid "Stage selected"
+#~ msgstr "选择的舞台"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "左下方"
+
+#~ msgid "bottom-right"
+#~ msgstr "右下方"
+
+#~ msgid "middle"
+#~ msgstr "中间"
+
+#~ msgid "name"
+#~ msgstr "名字"
+
+#~ msgid "say"
+#~ msgstr "说"
+
+#~ msgid "shout"
+#~ msgstr "叫喊"
+
+#~ msgid "think"
+#~ msgstr "思考"
+
+#~ msgid "top-left"
+#~ msgstr "左上方"
+
+#~ msgid "top-right"
+#~ msgstr "右上方"
+
+#~ msgid "whisper"
+#~ msgstr "低语"
+
+#~ msgid "any"
+#~ msgstr "任意"
+
+#~ msgid "Floor Tom"
+#~ msgstr "落地鼓"
+
+#~ msgid "High Bongo"
+#~ msgstr "高音手鼓"
+
+#~ msgid "High Tom"
+#~ msgstr "高音鼓"
+
+#~ msgid "High Wood Block"
+#~ msgstr "高音木鱼"
+
+#~ msgid "int"
+#~ msgstr "整数"
+
+#~ msgid "Kick Drum"
+#~ msgstr "踢鼓"
+
+#~ msgid "Long Guiro"
+#~ msgstr "长梗笛"
+
+#~ msgid "Low Bongo"
+#~ msgstr "南美小鼓-低音"
+
+#~ msgid "Low Conga"
+#~ msgstr "康加鼓-低音"
+
+#~ msgid "Low Tom"
+#~ msgstr "中音鼓-低音"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "木鱼-低音"
+
+#~ msgid "Maracas"
+#~ msgstr "响葫芦"
+
+#~ msgid "Mid Tom"
+#~ msgstr "中音鼓-中音"
+
+#~ msgid "More"
+#~ msgstr "更多"
+
+#~ msgid "Mute High Conga"
+#~ msgstr "康加鼓-闷音"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "叁角铁-闷音"
+
+#~ msgid "Open High Conga"
+#~ msgstr "康加鼓-高开"
+
+#~ msgid "Open Triangle"
+#~ msgstr "叁角铁-开音"
+
+#~ msgid "other scripts in stage"
+#~ msgstr "舞台上的其他脚本"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "踏板双面钹"
+
+#~ msgid "Short Guiro"
+#~ msgstr "短梗笛"
+msgid "set motors %m.motorPort speed %n"
+msgstr "设置 电机 %m.motorPort 转速为 %n"
+msgid "set servo %m.servoPort %m.slot angle %n"
+msgstr "设置舵机%m.servoPort %m.slot 角度%n"
+msgid "set 7-segments display%m.normalPort number %n"
+msgstr "设置数码管%m.normalPort 数字%n"
+msgid "set led%m.normalPort index%n red%n green%n blue%n"
+msgstr "设置LED%m.normalPort 第%n 盏 红色%n 绿色%n 蓝色%n"
+msgid "ultrasonic sensor %m.normalPort distance"
+msgstr "超声波传感器%m.normalPort 距离"
+msgid "sound sensor %m.normalPort"
+msgstr "音量传感器%m.normalPort"
+msgid "light sensor %m.normalPort"
+msgstr "光线传感器%m.normalPort"
+msgid "set light sensor %m.normalPort led as %m.digital"
+msgstr "设置光线传感器%m.normalPort LED状态为 %m.digital"
+msgid "line follower %m.normalPort"
+msgstr "巡线传感器%m.normalPort"
+msgid "potentiometer %m.normalPort"
+msgstr "电位器%m.normalPort"
+msgid "3-axis gyro %m.GyroAxis angle"
+msgstr "陀螺仪 %m.GyroAxis 角度"
+msgid "infrared receiver %m.normalPort"
+msgstr "红外接收器 %m.normalPort"
+msgid "pir motion sensor %m.normalPort"
+msgstr "人体红外传感器 %m.normalPort"
+msgid "temperature %m.normalPort%m.slot °C"
+msgstr "当前温度 %m.normalPort%m.slot °C"
+msgid "joystick %m.normalPort %m.Axis"
+msgstr "摇杆 %m.normalPort %m.Axis"
+msgid "read digital pin %n"
+msgstr "数字口 %n"
+msgid "read analog pin %n"
+msgstr "模拟口 %n"
+msgid "set digital pin %n output as %m.digital"
+msgstr "设置 数字口 %n 输出为 %m.digital"
+msgid "set analog pin %n output as %n"
+msgstr "设置 模拟口 %n 输出为 %n"
+msgid "set pwm pin %n output as %n"
+msgstr "设置 PWM %n 输出为 %n"
+msgid "set servo pin %n angle as %n"
+msgstr "设置舵机引脚 %n 输出角度为 %n"
+
+
+
+msgid "Ultrasonic"
+msgstr "超声波"
+msgid "Light Sensor"
+msgstr "光线传感器"
+msgid "Sound Sensor"
+msgstr "声音传感器"
+msgid "LED"
+msgstr "LED灯"
+msgid "Joystick"
+msgstr "摇杆"
+msgid "Line Finder"
+msgstr "寻线传感器"
+msgid "LimitSwitch"
+msgstr "限位开关"
+msgid "Temperature"
+msgstr "温度传感器"
+msgid "Joystick"
+msgstr "摇杆"
+msgid "Potentiometer"
+msgstr "电位器"
+msgid "Button"
+msgstr "按钮"
+msgid "High"
+msgstr "高电平"
+msgid "Low"
+msgstr "低电平"
+msgid "X-Axis"
+msgstr "X轴"
+msgid "Y-Axis"
+msgstr "Y轴"
+msgid "Z-Axis"
+msgstr "Z轴"
+msgid "Input"
+msgstr "输入"
+msgid "Output"
+msgstr "输出"
+
+
+
+msgid "Slot1"
+msgstr "插头1"
+msgid "Slot2"
+msgstr "插头2"
+
+
+
+msgid "Don't save"
+msgstr "不保存"
+msgid "Save project?"
+msgstr "保存项目?"
+msgid "Save Project"
+msgstr "保存项目"
+msgid "About"
+msgstr "关于"
+msgid "Read Me"
+msgstr "使用必看"
+msgid "Open"
+msgstr "打开"
+msgid "Save as"
+msgstr "另存为"
+msgid "Share to website"
+msgstr "分享到网站"
+msgid "Check for updates"
+msgstr "检查更新"
+msgid "Quit"
+msgstr "退出"
+msgid "Share to Scratch Website"
+msgstr "分享到Scratch网站"
+msgid "Project name"
+msgstr "项目名称:"
+msgid "Your Scratch name"
+msgstr "用户名:"
+msgid "Password"
+msgstr "密码"
+msgid "Setting"
+msgstr "设置"
+msgid "Connect"
+msgstr "连接"
+msgid "Disconnect"
+msgstr "没有连接串口"
+msgid "save picture of stage"
+msgstr "将场景保存为图片"
+msgid "Load Project"
+msgstr "打开项目"
+msgid "Save Project"
+msgstr "保存项目"
+msgid "Robots"
+msgstr "电子模块"
+msgid "Forum"
+msgstr "论坛"
+msgid "Upgrade Firmware"
+msgstr "更新固件"
+msgid "Firmware"
+msgstr "固件"
+msgid "View Source"
+msgstr "查看源代码"
+msgid "cleanup"
+msgstr "整理"
+msgid "Microphone volume:"
+msgstr "麦克风音量:"
+
+msgid "Close"
+msgstr "关闭"
+msgid "Executing"
+msgstr "升级中"
+msgid "Replace contents of the current project?"
+msgstr "替换当前项目吗？"
+msgid "Replace existing project"
+msgstr "替换存在的项目"
+msgid "info"
+msgstr "信息"
+msgid "New Version Available!"
+msgstr "有新版本可以更新！"
+msgid "Update Now"
+msgstr "马上更新"
+
+msgid "Open Project"
+msgstr "打开项目"
+
+msgid "help"
+msgstr "帮助"
+
+msgid "delete list"
+msgstr "删除链表"
+
+
+#jmd
+msgid "Port1"
+msgstr "P1"
+msgid "Port2"
+msgstr "P2"
+msgid "Port3"
+msgstr "P3"
+msgid "Port4"
+msgstr "P4"
+msgid "Port5"
+msgstr "P5"
+msgid "Port6"
+msgstr "P6"
+msgid "Port7"
+msgstr "P7"
+msgid "Port8"
+msgstr "P8"
+
+msgid "PL"
+msgstr "左"
+msgid "PM"
+msgstr "中"
+msgid "PR"
+msgstr "右"
+
+msgid "M1"
+msgstr "M1"
+msgid "M2"
+msgstr "M2"
+msgid "M3"
+msgstr "M3"
+msgid "M4"
+msgstr "M4"
+
+msgid "read digital %m.port"
+msgstr "读取 数字端口 %m.port"
+
+msgid "set  digital %m.port output as %m.digital"
+msgstr "设置 数字端口 %m.port 输出为 %m.digital"
+
+msgid "read analog  %m.port"
+msgstr "读取 模拟端口 %m.port"
+
+msgid "read touch %m.port"
+msgstr "读取 触碰 %m.port"
+
+msgid "read DIY pin4 %m.port"
+msgstr "读取 DIY pin4 端口 %m.port"
+
+msgid "read DIY pin6 %m.port"
+msgstr "读取 DIY pin6 端口 %m.port"
+
+msgid "read touch %m.Plr12"
+msgstr "读取 触碰 %m.Plr12"
+
+msgid "set buzzer %m.switch"
+msgstr "设置 蜂鸣器 %m.switch" 
+
+msgid "read InVolume"
+msgstr "读取 内置麦克风"
+
+msgid "get SysTime"
+msgstr "读取 控制器时间"
+
+msgid "set SysTime"
+msgstr "设置 控制器时间为零"
+
+msgid "get Data address %n"
+msgstr "读取 地址 %n 的数据值"
+
+msgid "set Data address %n value %n"
+msgstr "设置 地址 %n 的数据值为 %n"
+
+msgid "set motor %m.motorPort speed %d.motorValue"
+msgstr "设置 马达 %m.motorPort 转速为 %d.motorValue"
+
+msgid "set color lamp %m.port color %m.color"
+msgstr "设置 彩灯 %m.port 颜色 %m.color"
+
+msgid "set color lamp %m.Plr12 color %m.color"
+msgstr "设置 彩灯 %m.Plr12 颜色 %m.color"
+
+msgid "set servo %m.motorPort speed %d.motorValue angle %d.angleValue"
+msgstr "设置 伺服马达 %m.motorPort 速度 %d.motorValue 角度 %d.angleValue"
+
+msgid "set high servo %m.motorPort speed %d.motorValue angle %d.angleValue"
+msgstr "设置 伺服马达(灰) %m.motorPort 速度 %d.motorValue 角度 %d.angleValue"
+
+msgid "set low servo %m.motorPort speed %d.motorValue angle %d.angleValue"
+msgstr "设置 伺服马达(橙) %m.motorPort 速度 %d.motorValue 角度 %d.angleValue"
+
+msgid "set servo %m.motorPort angle %n"
+msgstr "设置 舵机 %m.motorPort 角度 %n"
+
+msgid "set fan %m.motorPort speed %n"
+msgstr "设置 风扇 %m.motorPort 速度 %n"
+
+msgid "set fan %m.fanPort speed %n"
+msgstr "设置 风扇 %m.fanPort 速度 %n"
+
+msgid "set motor code %m.motorPort"
+msgstr "清零 马达编码器 %m.motorPort"
+
+msgid "get motor code %m.motorPort"
+msgstr "读取 马达编码器 %m.motorPort"
+
+msgid "set turn left speed %n angle %n"
+msgstr "设置 向左转 速度 %n 角度 %n"
+
+msgid "set turn right speed %n angle %n"
+msgstr "设置 向右转 速度 %n 角度 %n"
+
+msgid "set move forward speed %n angle %n"
+msgstr "设置 向前走 速度 %n 角度 %n"
+
+msgid "set move back speed %n angle %n"
+msgstr "设置 向后走 速度 %n 角度 %n"
+
+msgid "read lightSensor %m.port"
+msgstr "读取 光电传感器 %m.port"
+
+msgid "read lightSensor digital %m.port"
+msgstr "读取 光电传感器(数字) %m.port"
+
+msgid "set lightSensor %m.port %m.switch"
+msgstr "设置 光电传感器 %m.port 灯 %m.switch"
+
+msgid "get lightSensor %m.Plmr12"
+msgstr "读取 光电传感器 %m.Plmr12"
+
+msgid "set lightSensor %m.Plmr12 %m.switch"
+msgstr "设置 光电传感器 %m.Plmr12 灯 %m.switch"
+
+msgid "get CompoI %m.port mode %m.CompoIMode"
+msgstr "读取 复眼传感器 %m.port 模式 %m.CompoIMode"
+
+msgid "get IRDist %m.port"
+msgstr "读取 红外测距传感器 %m.port"
+
+msgid "get IRBarrier %m.port"
+msgstr "读取 红外测障传感器 %m.port"
+
+msgid "get IRBarrier %m.Plmr"
+msgstr "读取 红外测障传感器 %m.Plmr"
+
+msgid "get RemoIR %m.port"
+msgstr "读取 火焰传感器 %m.port"
+
+msgid "get RemoIR %m.Plr12"
+msgstr "读取 火焰传感器 %m.Plr12"
+
+msgid "get ultrasonic %m.port mode %m.UltrasoundMode"
+msgstr "读取 超声波传感器 %m.port 模式 %m.UltrasoundMode"
+
+msgid "get ultrasonic %m.port"
+msgstr "读取 超声波传感器 %m.port"
+
+msgid "get CompassB %m.port"
+msgstr "读取 指南针传感器 %m.port"
+
+msgid "get Volume %m.port"
+msgstr "读取 音量传感器 %m.port"
+
+msgid "get GSensor %m.port mode %m.GSensorMode"
+msgstr "读取 三轴加速度传感器 %m.port 模式 %m.GSensorMode"
+
+msgid "get Magnet %m.port"
+msgstr "读取 磁敏传感器 %m.port"
+
+msgid "set AHRS %m.port mode %m.setAHRSMode"
+msgstr "设置 姿态方位传感器 %m.port 模式 %m.setAHRSMode"
+
+msgid "get AHRS %m.port mode %m.getAHRSMode1"
+msgstr "读取 姿态方位传感器 %m.port 模式 %m.getAHRSMode1"
+
+msgid "get DTHSensor %m.port mode %m.DTHSensorMode"
+msgstr "读取 温湿度传感器 %m.port 模式 %m.DTHSensorMode"
+
+msgid "get Photosensitive %m.port"
+msgstr "读取 光敏传感器 %m.port"
+
+msgid "get Human Sensor %m.port"
+msgstr "读取 人体感应传感器 %m.port"
+
+msgid "get AirQuality %m.port"
+msgstr "读取 空气质量传感器 %m.port"
+
+msgid "read LeftButton"
+msgstr "读取 左键 "
+
+msgid "read RightButton"
+msgstr "读取 右键"
+
+msgid "read TouchScreenX"
+msgstr "读取 触屏X轴 "
+
+msgid "read TouchScreenY"
+msgstr "读取 触屏Y轴 "
+
+msgid "read InVotage"
+msgstr "读取 电池电压"
+
+msgid "set audio frequency %d.audioValue Hz time %d.audioValue Ms"
+msgstr "设置 声音 频率 %d.audioValue Hz 时间 %d.audioValue Ms"
+
+msgid "set audio frequency %d.freq Hz time %d.beats s"
+msgstr "设置 声音 频率 %d.freq Hz 时间 %d.beats s"
+
+msgid "Double"
+msgstr "双拍"
+
+msgid "Whole"
+msgstr "一拍"
+
+msgid "Half"
+msgstr "半拍"
+
+msgid "Quarter"
+msgstr "1/4拍"
+
+msgid "Eighth"
+msgstr "1/8拍"
+
+msgid "Zero"
+msgstr "休止符"
+
+msgid "Display string %d.lineNumber line %s font color %d.LCDcolor back color %d.LCDcolor"
+msgstr "显示字符串 %d.lineNumber 行 %s 字体颜色 %d.LCDcolor 背景颜色 %d.LCDcolor"
+
+msgid "set DisplayVar line %n value %n"
+msgstr "设置 第 %n 行 显示 %n"
+
+msgid "set LCD Back %m.switch"
+msgstr "设置 屏幕背光 %m.switch"
+
+msgid "set LCD Clear %d.LCDcolor"
+msgstr "清除 屏幕 %d.LCDcolor"
+
+msgid "read TouchScreen"
+msgstr "读取 触屏"
+
+#
+msgid "set Dot X %n Y %n color %d.LCDcolor"
+msgstr "绘制 点 X %n Y %n 颜色 %d.LCDcolor"
+
+msgid "set Circle X %n Y %n radius %n color %d.LCDcolor"
+msgstr "绘制圆 X %n Y %n 半径 %n 颜色 %d.LCDcolor"
+
+msgid "set Rectangle X1 %n Y1 %n X2 %n Y2 %n width %n color %d.LCDcolor"
+msgstr "绘制矩形 X1 %n Y1 %n X2 %n Y2 %n 线宽 %n 颜色 %d.LCDcolor"
+
+msgid "set Filled Rectangle X1 %n Y1 %n X2 %n Y2 %n color %d.LCDcolor"
+msgstr "绘制实心矩形 X1 %n Y1 %n X2 %n Y2 %n 颜色 %d.LCDcolor"
+
+msgid "set line X %n Y %n angle %n length %n color %d.LCDcolor"
+msgstr "绘制直线 X %n Y %n 角度 %n 长度 %n 颜色 %d.LCDcolor"
+
+msgid "set Rectangle X %n Y %n width %n height %n line width %n color %d.LCDcolor"
+msgstr "绘制矩形 X %n Y %n 宽 %n 高 %n 线宽 %n 颜色 %d.LCDcolor"
+
+msgid "set Filled Rectangle X %n Y %n width %n height %n color %d.LCDcolor"
+msgstr "绘制实心矩形 X %n Y %n 宽 %n 高 %n 颜色 %d.LCDcolor"
+
+# diy start
+
+msgid "Main Program"
+msgstr "主程序"
+
+msgid "read analog %m.APort"
+msgstr "模拟口 %m.APort"
+
+msgid "read digital %m.APort"
+msgstr "数字口 %m.APort"
+
+msgid "set digital %m.APort output as %m.digital"
+msgstr "设置 数字口 %m.APort 输出为 %m.digital"
+
+msgid "set servo %m.PWMPort angle %d.angleValue"
+msgstr "设置 伺服马达 %m.PWMPort 角度 %d.angleValue"
+
+msgid "set PWM %m.PWMPort pulse %n"
+msgstr "设置 PWM %m.PWMPort 频率 %n"
+
+msgid "get Photosensitive"
+msgstr "读取 光敏传感器"
+
+msgid "set color lamp color %m.color"
+msgstr "设置 LED 颜色 %m.color"
+
+# diy end
+
+
+msgid "ON"
+msgstr "开"
+
+msgid "OFF"
+msgstr "关"
+
+msgid "RED"
+msgstr "红色"
+
+msgid "GREEN"
+msgstr "绿色"
+
+msgid "BLUE"
+msgstr "蓝色"
+ 
+msgid "YELLOW"
+msgstr "黄色"
+ 
+msgid "PURPLE"
+msgstr "紫色"
+ 
+msgid "CYAN"
+msgstr "青色"
+ 
+msgid "WHITE"
+msgstr "白色"
+
+msgid "BLACK"
+msgstr "黑色"
+ 
+msgid "CH1"
+msgstr "通道1"
+msgid "CH2"
+msgstr "通道2"
+msgid "CH3"
+msgstr "通道3"
+msgid "CH4"
+msgstr "通道4"
+msgid "CH5"
+msgstr "通道5"
+msgid "CH6"
+msgstr "通道6"
+msgid "CH7"
+msgstr "通道7"
+
+msgid "Max CH"
+msgstr "最大光值通道编号"
+msgid "Max Value"
+msgstr "最大值光值"
+
+msgid "digital"
+msgstr "数字"
+msgid "analog"
+msgstr "模拟"
+
+msgid "X"
+msgstr "X轴"
+msgid "Y"
+msgstr "Y轴"
+msgid "Z"
+msgstr "Z轴"
+
+msgid "set music player %m.port command %m.MusicPlayerCMD"
+msgstr "设置 音乐播放器 %m.port 命令 %m.MusicPlayerCMD"
+
+msgid "set RF %m.port password %n"
+msgstr "设置 RF无线 %m.port 密码 %n"
+
+msgid "set RF %m.port send %n"
+msgstr "设置 RF无线 %m.port 发送 %n"
+
+msgid "get RF %m.port data"
+msgstr "获取 RF无线 %m.port 数据"
+
+msgid "get RF %m.port remote button"
+msgstr "获取 RF无线 %m.port 键值"
+
+msgid "get RF %m.port remote code"
+msgstr "获取 RF无线 %m.port 键码"
+
+msgid "get RF %m.port %m.GSensorMode remote gravity"
+msgstr "获取 RF无线 %m.port %m.GSensorMode 重力值"
+
+msgid "get RF %m.port direction %m.direction axis %m.axis remote rocker"
+msgstr "获取 RF无线 %m.port 方向 %m.direction 轴 %m.axis 摇杆值"
+
+msgid "get RF %m.port button %d.RFButton"
+msgstr "获取 RF无线 %m.port 按键 %d.RFButton"
+
+msgid "get WiFi button %d.WiFiButton"
+msgstr "获取无线WiFi 按键 %d.WiFiButton"
+
+msgid "get WiFi voice %s"
+msgstr "语音识别 %s"
+
+msgid "set WiFi voice string line %d.LCDLine font %m.LCDcolor background %m.LCDcolor"
+msgstr "显示语音识别字符串 行 %d.LCDLine 字体 %m.LCDcolor 背景 %m.LCDcolor"
+
+msgid "Play MP3 file %d.fileNumber MP3 name %d.MP3Number"
+msgstr "播放 MP3 文件夹名 %d.fileNumber MP3名 %d.MP3Number"
+
+msgid "Pause MP3 player"
+msgstr "暂停播放MP3"
+
+msgid "Set Note %m.note"
+msgstr "播放 音符 %m.note"
+
+msgid "set LCDBack %m.switch"
+msgstr "LCD背光灯 %m.switch"
+
+msgid "set LCDClear %d.LCDcolor"
+msgstr "LCD清屏 %d.LCDcolor"
+
+msgid "set display picture X %n Y %n file name %s scale %n"
+msgstr "显示图片 X %n Y %n 文件名 %s 缩放比例 %n"
+
+msgid ""
+msgstr ""
+
+
+msgid "play 1"
+msgstr "播放 1"
+
+msgid "play 2"
+msgstr "播放 2"
+
+msgid "play 3"
+msgstr "播放 3"
+
+msgid "play 4"
+msgstr "播放 4"
+
+msgid "play all"
+msgstr "播放全部"
+
+msgid "record 1"
+msgstr "录音 1"
+
+msgid "record 2"
+msgstr "录音 2"
+
+msgid "record 3"
+msgstr "录音 3"
+
+msgid "record 4"
+msgstr "录音 5"
+
+msgid "record all"
+msgstr "全部录音"
+
+msgid "stop"
+msgstr "停止"
+
+msgid "reset direct"
+msgstr "校正一次水平姿态方位"
+msgid "reset factory"
+msgstr "恢复出厂设置"
+msgid "reset once"
+msgstr "校正一次陀螺仪"
+
+msgid "roll"
+msgstr "横滚角"
+msgid "pitch"
+msgstr "仰俯角"
+msgid "yaw"
+msgstr "偏航角"
+
+msgid "temperature"
+msgstr "温度"
+
+msgid "humidity"
+msgstr "湿度"
+
+msgid "FrameRate Turbo mode"
+msgstr "加速模式"
+
+msgid "Update failed"
+msgstr "更新失败"
+
+msgid "Could not retrieve new application from server."
+msgstr "无法获取更新文件，请到官网www.robotplayer.com下载更新。"
+
+msgid "Update check failed"
+msgstr "更新失败"
+
+msgid "Could not retrieve version information from server."
+msgstr "无法获取更新信息"
+
+msgid "A newer version of Scratch is available:"
+msgstr "有一个新的Scratch版本可以更新"
+
+msgid "Update now"
+msgstr "现在更新"
+
+msgid "Running pre-release"
+msgstr "运行着预览版"
+
+msgid "This version is newer than the current release version."
+msgstr "现在的版本比发布的版本新"
+
+msgid "Update not needed"
+msgstr "不需要更新"
+
+msgid "This is the current version."
+msgstr "这是最新的版本"
+
+msgid "Scratch Updater"
+msgstr "Scratch 更新"
+
+msgid "Downloading new version..."
+msgstr "下载新版本..."
+
+msgid "Disconnect"
+msgstr "断开连接"
+
+msgid "Disconnection"
+msgstr "断开连接"
+
+msgid "None Connection"
+msgstr "没有连接到"
+
+msgid "Compile"
+msgstr "编译当前任务"
+
+
+msgid "Compiling"
+msgstr "编译中"
+
+msgid "Compile Success"
+msgstr "编译成功"
+
+msgid "Compile Error"
+msgstr "编译失败 ！\n程序中含有不正确的语法表达式，或者函数名称和变量名称相同都会导致编译失败的。\n请修改后继续。"
+
+msgid "Compile error info"
+msgstr "编译错误信息"
+
+msgid "Compile Fault"
+msgstr "编译失败"
+
+msgid "Downloading"
+msgstr "下载"
+
+msgid "Please wait a few seconds..."
+msgstr "请稍等 ..."
+
+msgid "Electronics"
+msgstr "电子模块"
+
+msgid "Switch to IQ-Robot edition"
+msgstr "切换到 IQ-Robot 版本"
+
+msgid "Switch to E2-RCU edition"
+msgstr "切换到 E2-RCU 版本"
+
+msgid "Connect Success"
+msgstr "连接成功"
+
+msgid "Connect to "
+msgstr "连接到  \n\n注意：请断开连接再关控制器"
+
+msgid "Close Success"
+msgstr "关闭成功"
+
+msgid "Closed all connection"
+msgstr "已经关闭所有连接"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "Switch to E2-RCU"
+msgstr "成功切换到 E2-RCU"
+msgid "Switch to IQ-Robot"
+msgstr "成功切换到 IQ-Robot"
+
+msgid "Connected"
+msgstr "已连接"
+
+msgid "Connected to"
+msgstr "连接到"
+
+msgid "set font size"
+msgstr "设置字体大小"
+
+msgid "normal readout"
+msgstr "常规显示"
+
+msgid "large readout"
+msgstr "大字符显示"
+
+msgid "Show extension blocks"
+msgstr "显示该扩展"
+
+msgid "Hide extension blocks"
+msgstr "隐藏该扩展"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Fast connection failure, please connect manually."
+msgstr "快速连接失败，请手动连接。"
+
+msgid "Fast Connect"
+msgstr "快速连接"
+
+
+msgid "IQ-Robot Program"
+msgstr "IQ-Robot 主程序"
+
+msgid "E2-RCU Program"
+msgstr "E2-RCU 主程序"
+
+msgid "upload to E2-RCU"
+msgstr "上传 E2-RCU 程序"
+
+msgid "Lite mode"
+msgstr "精简模式"
+
+msgid "unsupported block found, remove them to continue."
+msgstr "发现不支持的模块，移除它们后继续"
+
+msgid "Function has no name, please recreate."
+msgstr "函数没有名称，请重新创建"
+
+msgid "Example"
+msgstr "例程"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "Add"
+msgstr "图库"
+
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+msgid "Serial or Bluetooth"
+msgstr "串口或蓝牙"
+
+# network
+
+msgid "Enable Network"
+msgstr "开启网络连接"
+
+msgid "Connected to: "
+msgstr "连接到："
+
+msgid "Auto Connect"
+msgstr "自动连接"
+
+msgid "Manual Connect"
+msgstr "高级连接"
+
+msgid "Search Devices"
+msgstr "搜索设备"
+
+msgid "IP Address"
+msgstr "IP 地址"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Opened: "
+msgstr "已开启: "
+
+msgid "Pairing Code"
+msgstr "配对码"
+
+msgid "Pairing Code settings"
+msgstr "配对码设置"
+
+msgid "Auto connect fault"
+msgstr "自动连接失败"
+
+msgid "Access Point"
+msgstr "路由模式"
+
+msgid "Connect WiFi"
+msgstr "连接WiFi"
+
+msgid "WiFi Module"
+msgstr "WiFi模块设置"
+
+msgid "Set WiFi module as AP"
+msgstr "设置WiFi模块为路由模式"
+
+msgid "* Password length is longer than 10"
+msgstr "* 密码长度最少要10位"
+
+msgid "Scan"
+msgstr "扫描"
+
+msgid "Confirm"
+msgstr "确定"
+
+msgid "Pairing Code error"
+msgstr "配对码错误"
+
+msgid "IP address format error"
+msgstr "IP 地址格式错误"
+
+msgid "1024 < Port range < 65535"
+msgstr "端口范围：大于1024，小于65535"
+
+# network end
+
+
+# download
+
+msgid "Please connect to network"
+msgstr "请连接网络后继续"
+
+msgid "File is not exist"
+msgstr "下载的文件不存在"
+
+msgid "Flash driver has no enough space"
+msgstr "磁盘空间不足"
+
+msgid "Downloading"
+msgstr "下载中"
+
+msgid "Downloading, Please wait a few seconds..."
+msgstr "下载中，请稍等一会儿..."
+
+
+msgid "Click in WiFi download mode in RCU"
+msgstr "点击控制器的“WIFI下载”图标进入下载模式"
+
+msgid "Click in disk download mode in RCU"
+msgstr "点击控制器的“磁盘下载”图标进入下载模式"
+
+msgid "Click in Bluetooth download mode in RCU"
+msgstr "点击控制器的“蓝牙下载”图标进入下载模式"
+
+msgid "Download Finished"
+msgstr "下载完成"
+
+msgid "Download timeout"
+msgstr "下载超时"
+
+msgid "RCU type is wrong"
+msgstr "RCU 类型错误"
+
+msgid "Connect Device"
+msgstr "连接设备"
+
+msgid "connect success"
+msgstr "连接成功"
+
+msgid "connect fault"
+msgstr "连接失败"
+
+# download end
+
+# examples 
+
+msgid "MotorCode"
+msgstr "马达编码器"
+
+msgid "time"
+msgstr "系统时间"
+
+msgid "touch"
+msgstr "触碰"
+
+msgid "car"
+msgstr "遥控车"
+
+msgid  "traceBlackLine"
+msgstr "寻迹小车"
+
+# examples end
+
+
+# font start
+
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "E2_USB"
+msgstr "E2有线固件"
+
+msgid "E2_WL"
+msgstr "E2无线固件"
+
+msgid "IQ_USB"
+msgstr "IQ有线固件"
+
+msgid "IQ_WL"
+msgstr "IQ无线固件"
+
+msgid "USB HID"
+msgstr "USB数据线(自动连接)"
+
+msgid "E2-RCU Edition"
+msgstr "E2-RCU 版本"
+
+msgid "E3-RCU Edition"
+msgstr "E3-RCU 版本"
+
+msgid "IQ-Robot Edition"
+msgstr "IQ-Robot 版本"
+
+msgid "DIY Edition"
+msgstr "DIY 版本"
+
+msgid "Board"
+msgstr "控制器"
+
+msgid "RCU"
+msgstr "控制器"
+
+msgid "Self IP"
+msgstr "本地IP地址"
+
+# font end
+msgid "Compile for multitask"
+msgstr "编译多任务(1-8)"
+
+msgid "Error info"
+msgstr "错误信息"
+
+msgid "E2-RCU Program %m.task"
+msgstr "E2-RCU %m.task"
+
+msgid "E3-RCU Program %m.task"
+msgstr "E3-RCU %m.task"
+
+msgid "RCU Program %m.task"
+msgstr "控制器 %m.task"
+
+msgid "main"
+msgstr "主程序"
+
+msgid "task1"
+msgstr "任务1"
+
+msgid "task2"
+msgstr "任务2"
+
+msgid "task3"
+msgstr "任务3"
+
+msgid "task4"
+msgstr "任务4"
+
+msgid "task5"
+msgstr "任务5"
+
+msgid "task6"
+msgstr "任务6"
+
+msgid "task7"
+msgstr "任务7"
+
+msgid "task8"
+msgstr "任务8"
+
+msgid "return"
+msgstr "返回"
+
+msgid "No device"
+msgstr "没有设备"
+
+msgid "* Pairing Code length is six"
+msgstr "* 配对码必须为六位数字"
+
+msgid "Pairing Code length is six"
+msgstr "配对码必须为六位数字"
+
+msgid "* Pairing code required"
+msgstr "* 配对码必填"
+
+msgid "Method 1: just fill in the Pairing code"
+msgstr "方法1：只填配对码连接"
+
+msgid "Method 2: fill in the Pairing code, scan the device or manually enter the IP address connection"
+msgstr "方法2：填写配对码，扫描设备或者手动输入IP地址连接"
+
+msgid "Pairing Code must be number"
+msgstr "配对码必须是数字"
+
+msgid "about"
+msgstr "关于"
+
+msgid "doc"
+msgstr "参考文档"
+
+msgid "Set Device Pairing Code"
+msgstr "设置设备配对码"
+
+msgid "Set Device Name"
+msgstr "设置设备名称"
+
+msgid "Set pairing code"
+msgstr "设置配对码"
+
+msgid "Pairing code"
+msgstr "配对码"
+
+msgid "* Pairing code length must be six"
+msgstr "* 配对码必须为六位数字"
+
+msgid "Pairing code length must be six"
+msgstr "配对码必须为六位数字"
+
+msgid "Set Pairing code done"
+msgstr "设置配对码成功"
+
+msgid "set Pairing code fault"
+msgstr "设置配对码失败"
+
+msgid "Set device name"
+msgstr "设置设备名称"
+
+msgid "Device name"
+msgstr "设备名称"
+
+msgid "* Device name length must be shorter than ten"
+msgstr "* 设备名称最多为十个字符"
+
+msgid "Device name length must be shorter than ten"
+msgstr "设备名称最多为十个字符"
+
+msgid "Set Device name done"
+msgstr "设置设备名称成功"
+
+msgid "set Device name fault"
+msgstr "设置设备名称失败"
+
+msgid "Connect done"
+msgstr "连接成功"
+
+msgid "Connect fault"
+msgstr "连接失败"
+
+msgid "Setup done"
+msgstr "设置成功"
+
+msgid "Setup fault"
+msgstr "设置失败"
+
+msgid "repeated task block found, remove them to continue."
+msgstr "发现重复的任务模块，请检查任务名称是否有重复。"
+
+# drawing face
+msgid "Clear All"
+msgstr "清除所有"
+
+msgid "Light All"
+msgstr "点亮所有"
+
+msgid "Remove Emotion"
+msgstr "删除图案"
+
+msgid "Add To Favourite"
+msgstr "收藏"
+
+msgid "Complete"
+msgstr "完成"
+
+msgid "Face Panel"
+msgstr "图案面板"
+
+msgid "common"
+msgstr "常用"
+
+msgid "motor"
+msgstr "马达"
+
+msgid "controller"
+msgstr "控制器"
+
+msgid "display"
+msgstr "显示"
+
+msgid "wireless"
+msgstr "无线"
+
+msgid "sensor"
+msgstr "传感器"
+
+#
+msgid "Find"
+msgstr "定位函数"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Lock"
+msgstr "锁定"
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "My Function"
+msgstr "自定义函数"
+
+msgid "E3_USB"
+msgstr "E3有线固件"
+
+msgid "E2"
+msgstr "E2固件"
+
+msgid "E3"
+msgstr "E3固件"
+
+msgid "E3 only"
+msgstr "E3特有功能"
+
+msgid "getting start"
+msgstr "入门手册"
+
+msgid "read doc"
+msgstr "必看教程"
+
+msgid "this is not the Scratch file"
+msgstr "这不是Scratch的文件"
+
+msgid "Step 1: Insert data line"
+msgstr "步骤1：插入USB数据线"
+
+msgid "Step 2: Click in disk download mode in RCU"
+msgstr "步骤2：点击控制器的“磁盘下载”图标进入下载模式"
+
+msgid "Step 3: Please wait a few seconds..."
+msgstr "步骤3：等待下载完成..."
+
+# download
+msgid "Click in WiFi download mode in RCU"
+msgstr "点击控制器的“WIFI下载”图标进入下载模式"
+
+msgid "get RCU type"
+msgstr "检测控制器类型"
+
+msgid "send file Name"
+msgstr "发送文件名称"
+
+msgid "send file date"
+msgstr "发送文件日期"
+
+msgid "send file size"
+msgstr "发送文件大小"
+
+msgid "send file data"
+msgstr "发送文件数据"
+
+msgid "Note: if you don't respond in the long term, \nplease download it again."
+msgstr "注意：如果长时间没反应请重新下载"
+
+msgid "Used Time: "
+msgstr "下载用时："
+
+msgid "Never ask update"
+msgstr "不再提示更新"
+
+msgid "Example Library"
+msgstr "例 程 库"
+
+msgid "A newer version of Scratch is available: v"
+msgstr "Scratch有新版本可以更新了：v"
+
+msgid "Connecting"
+msgstr "连接中"
+
+msgid "Please wait patiently"
+msgstr "请耐心等待"
+
+msgid "Connection has been interrupted"
+msgstr "连接已经中断"
+
+msgid "The connection failed, please confirm whether it is connected to the WiFi"
+msgstr "连接失败，请确认是否连接WiFi"
+
+msgid "Searching through WiFi and connecting the controller"
+msgstr "正在通过WiFi搜索并连接控制器"
+
+msgid "Searching through WiFi \nand connecting the controller"
+msgstr "正在通过WiFi搜索并连接控制器"
+
+msgid "Step 1: Insert data line\nStep 2: Click in disk download mode in RCU\nStep 3: Please wait a few seconds..."
+msgstr "步骤1：插入USB数据线\n步骤2：控制器进入“磁盘下载”模式\n步骤3：等待下载完成..."
+
+msgid "Pull out the USB line from the controller to disconnect the connection"
+msgstr "从控制器拔出USB线即可断开连接"
+
+msgid "Please pull out the USB cable from the controller to connect again"
+msgstr "请先从控制器拔出USB线再进行连接"
+
+msgid "Connect to RCU by WiFi"
+msgstr "WiFi连接控制器"
+
+msgid "E3 firmware update once"
+msgstr "E3系统升级（升级一次即可）"
+
+msgid "EV5 firmware update once"
+msgstr "EV5系统升级（升级一次即可）"
+
+msgid "Load Recent Project"
+msgstr "打开最近的文件"
+
+msgid "get Color Sensor %m.port"
+msgstr "颜色检测 %m.port"
+
+msgid "set IR Sensor %m.port state %n"
+msgstr "红外发送 %m.port 状态 %n"
+
+msgid "get IR Sensor %m.port"
+msgstr "红外接收 %m.port"
+
+msgid "get IR code"
+msgstr "接收红外编码接(E3接P7,E2接P4)"
+
+msgid "set IR code %n"
+msgstr "发送红外编码(E3接P5,E2接P3) %n"
+
+msgid "read BackButton"
+msgstr "读取返回键"
+
+msgid "read EnterButton"
+msgstr "读取进入键"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download error"
+msgstr "下载失败"
+
+msgid "WiFi Download"
+msgstr "WiFi 下载"
+
+msgid "Disk Download"
+msgstr "磁盘 下载"
+
+msgid "Note: Make sure to connect to E2-RCU\n if you don't respond in the long term, \nplease download it again."
+msgstr "注意：请确保连接上E2-RCU\n如果长时间没反应请重新下载"
+
+msgid "Note: Make sure to connect to E3-RCU\n if you don't respond in the long term, \nplease download it again."
+msgstr "注意：请确保连接上E3-RCU\n如果长时间没反应请重新下载"
+
+msgid "Switch to "
+msgstr "切换到 "
+
+msgid "Configuration success"
+msgstr "配置成功 "
+
+msgid "Configuration failed"
+msgstr "配置失败"
+
+msgid "get WiFi putter %m.direction"
+msgstr "获取WiFi推杆 %m.direction"
+
+
+# M1 s2e file start
+
+msgid "set motor %m.motorPortM1 speed %d.motorValue"
+msgstr "设置 马达 %m.motorPortM1 转速为 %d.motorValue"
+
+msgid "set color lamp %m.portM1 color %m.color"
+msgstr "设置 彩灯 %m.portM1 颜色 %m.color"
+
+msgid "read touch %m.portM1"
+msgstr "读取 触碰 %m.portM1"
+
+msgid "read lightSensor %m.portM1"
+msgstr "读取 光电传感器 %m.portM1"
+
+msgid "read lightSensor digital %m.portM1"
+msgstr "读取 光电传感器(数字) %m.portM1"
+
+msgid "set lightSensor %m.portM1 %m.switch"
+msgstr "设置 光电传感器 %m.portM1 灯 %m.switch"
+
+msgid "set high servo %m.motorPortM1 speed %d.motorValue angle %d.angleValue"
+msgstr "设置 伺服马达(灰) %m.motorPortM1 速度 %d.motorValue 角度 %d.angleValue"
+
+msgid "set low servo %m.motorPortM1 speed %d.motorValue angle %d.angleValue"
+msgstr "设置 伺服马达(橙) %m.motorPortM1 速度 %d.motorValue 角度 %d.angleValue"
+
+msgid "get motor code %m.motorPortM1"
+msgstr "读取 马达编码器 %m.motorPortM1"
+
+msgid "set motor code %m.motorPortM1"
+msgstr "清零 马达编码器 %m.motorPortM1"
+
+msgid "set fan %m.motorPortM1 speed %n"
+msgstr "设置 风扇 %m.motorPortM1 速度 %n"
+
+msgid "get CompoI %m.portM1 mode %m.CompoIMode"
+msgstr "读取 复眼传感器 %m.portM1 模式 %m.CompoIMode"
+
+msgid "get ultrasonic %m.portM1 mode %m.UltrasoundMode"
+msgstr "读取 超声波传感器 %m.portM1 模式 %m.UltrasoundMode"
+
+msgid "get IRDist %m.portM1"
+msgstr "读取 红外测距传感器 %m.portM1"
+
+msgid "get RemoIR %m.portM1"
+msgstr "读取 火焰传感器 %m.portM1"
+
+msgid "get CompassB %m.portM1"
+msgstr "读取 指南针传感器 %m.portM1"
+
+msgid "get Volume %m.portM1"
+msgstr "读取 音量传感器 %m.portM1"
+
+msgid "get GSensor %m.portM1 mode %m.GSensorMode"
+msgstr "读取 三轴加速度传感器 %m.portM1 模式 %m.GSensorMode"
+
+msgid "get Magnet %m.portM1"
+msgstr "读取 磁敏传感器 %m.portM1"
+
+msgid "set AHRS %m.portM1 mode %m.setAHRSMode"
+msgstr "设置 姿态方位传感器 %m.portM1 模式 %m.setAHRSMode"
+
+msgid "get AHRS %m.portM1 mode %m.getAHRSMode1"
+msgstr "读取 姿态方位传感器 %m.portM1 模式 %m.getAHRSMode1"
+
+msgid "get DTHSensor %m.portM1 mode %m.DTHSensorMode"
+msgstr "读取 温湿度传感器 %m.portM1 模式 %m.DTHSensorMode"
+
+msgid "get Photosensitive %m.portM1"
+msgstr "读取 光敏传感器 %m.portM1"
+
+msgid "get Human Sensor %m.portM1"
+msgstr "读取 人体感应传感器 %m.portM1"
+
+msgid "get AirQuality %m.portM1"
+msgstr "读取 空气质量传感器 %m.portM1"
+
+msgid "get Color Sensor %m.portM1"
+msgstr "颜色检测 %m.portM1"
+
+msgid "set IR Sensor %m.portM1 state %n"
+msgstr "红外发送 %m.portM1 状态 %n"
+
+msgid "get IR Sensor %m.portM1"
+msgstr "红外接收 %m.portM1"
+
+msgid "set music player %m.portM1 command %m.MusicPlayerCMD"
+msgstr "设置 音乐播放器 %m.portM1 命令 %m.MusicPlayerCMD"
+
+msgid "set LCD clear"
+msgstr "清除 屏幕"
+
+msgid "set RF password %n"
+msgstr "设置 RF无线密码 %n"
+
+msgid "set RF send %n"
+msgstr "设置 RF无线发送 %n"
+
+msgid "get RF data"
+msgstr "获取 RF无线数据"
+
+msgid "get RF remote button"
+msgstr "获取 RF无线键值"
+
+msgid "get RF remote code"
+msgstr "获取 RF无线键码"
+
+msgid "get RF %m.GSensorMode remote gravity"
+msgstr "获取 RF无线%m.GSensorMode 重力值"
+
+msgid "get RF direction %m.direction axis %m.axis remote rocker"
+msgstr "获取 RF无线方向 %m.direction 轴 %m.axis 摇杆值"
+
+msgid "get RF button %d.RFButton"
+msgstr "获取 RF无线按键 %d.RFButton"
+
+msgid "MCU Connecting WiFi"
+msgstr "控制器连接 WiFi"
+
+msgid "Scanning WiFi"
+msgstr "扫描 WiFi"
+
+msgid "Scanning"
+msgstr "扫描中"
+
+msgid "checksum error"
+msgstr "校验码错误"
+
+msgid "Network Heart Package"
+msgstr "网络心跳包"
+
+msgid "set servo %m.servoNum angle %d.angleValue"
+msgstr "伺服马达(接P1) %m.servoNum 角度 %d.angleValue"
+
+msgid "Wireless 2.4G"
+msgstr "无线2.4G"
+
+msgid "course"
+msgstr "课程"
+
+msgid "other"
+msgstr "其他"
+
+msgid "M-RCU firmware update "
+msgstr "M-RCU 固件升级 "
+
+msgid "set button color lamp color %m.color"
+msgstr "设置按键灯颜色%m.color"
+
+# EV5
+msgid "get ultrasonic %m.port mode %m.UltrasoundModeEV5"
+msgstr "读取 超声波传感器 %m.portM1 模式 %m.UltrasoundModeEV5"
+
+msgid "get EV3 Color Sensor %m.EV3Port mode %m.EV3ColorMode"
+msgstr "读取 EV3颜色传感器 %m.EV3Port 模式 %m.EV3ColorMode"
+
+msgid "get EV3 Ultrasonic Sensor %m.EV3Port mode %m.EV3UltrasonicMode"
+msgstr "读取 EV3超声波传感器 %m.EV3Port 模式 %m.EV3UltrasonicMode"
+
+msgid "get EV3 Gyro Sensor %m.EV3Port mode %m.EV3GyroMode"
+msgstr "读取 EV3陀螺仪传感器 %m.EV3Port 模式 %m.EV3GyroMode"
+
+msgid "US-DIST-CM"
+msgstr "距离（厘米）"
+
+msgid "US-DIST-IN"
+msgstr "距离（英寸）"
+
+msgid "US-LISTEN"
+msgstr "监听障碍"
+
+msgid "COL-REFLECT"
+msgstr "灰度"
+
+msgid "COL-AMBIENT"
+msgstr "环境光"
+
+msgid "COL-COLOR"
+msgstr "颜色"
+
+msgid "GYRO-ANG"
+msgstr "角度"
+
+msgid "GYRO-RATE"
+msgstr "速率"
+
+# M-RCU
+msgid "Remote run"
+msgstr "WiFi启动程序"
+
+msgid "Remote reset"
+msgstr "WiFi重启控制器"
+
+msgid "M-RCU handbook"
+msgstr "M-RCU 入门手册"
+
+msgid "set WiFi UDP mode remote IP %s remote port %n local port %n"
+msgstr "设置 WiFi 远程IP %s 远程端口 %n 本地端口 %n"
+
+msgid "set WiFi data %n"
+msgstr "发送 WiFi 数据 %n"
+
+msgid "get WiFi data"
+msgstr "获取 WiFi 数据"
+
+msgid "Download Error"
+msgstr "磁盘有问题无法下载，请重置磁盘"
+
+
+
+msgid "Step 1: Insert data line\nStep 2: Make sure RCU is not\n in the program selection interface\nStep 3: Please wait a few seconds..."
+msgstr "步骤1：插入USB数据线\n步骤2：确保不在程序选择界面\n步骤3：等待下载完成..."
+
+msgid ""
+msgstr ""
+
+
+# M1 s2e file end
+
+msgid "Please connect to Serial"
+msgstr "请先连接串口再下载"
+
+# atmega2650
+
+msgid "Arduino Program"
+msgstr "Arduino 程序"
+
+msgid "set color lamp color %m.colorArd"
+msgstr "三色LED 颜色 %m.colorArd"
+
+msgid "set motor %m.motorPort speed %d.motorValueArd"
+msgstr "设置马达 %m.motorPort 速度 %d.motorValueArd"
+
+msgid "read touch sensor %m.PortArd"
+msgstr "读取触碰传感器 %m.PortArd"
+
+msgid "read lightSensor %m.APortArd"
+msgstr "读取光电传感器 %m.APortArd"
+
+msgid "get motor code %m.motorCode"
+msgstr "获取马达 %m.motorCode 编码盘"
+
+msgid "clear motor code %m.motorCode"
+msgstr "清除马达 %m.motorCode 编码盘"
+
+msgid "close motor code %m.motorCode"
+msgstr "关闭马达 %m.motorCode 编码盘"
+
+msgid "set servo %m.PortArd angle %d.angleValueM"
+msgstr "伺服马达%m.PortArd 角度 %d.angleValueM"
+
+msgid "set servo %m.servoNum angle %d.angleValueM"
+msgstr "伺服马达%m.servoNum 角度 %d.angleValueM"
+
+msgid "read digital pin %m.PortArd"
+msgstr "读取数字端口 %m.PortArd"
+
+msgid "read analog pin %m.APortArd"
+msgstr "读取模拟端口 %m.APortArd"
+
+msgid "set digital pin %m.PortArd output as %m.switchHL"
+msgstr "设置数字端口 %m.PortArd 输出 %m.switchHL"
+
+msgid "set PWM pin %m.PortArd output as %d.PWMValueArd"
+msgstr "设置PWM端口 %m.PortArd 输出 %d.PWMValueArd"
+
+msgid "serial baudrate %d.baudrate write string %s"
+msgstr "串口波特率 %d.baudrate 发送字符串 %s"
+
+msgid "serial baudrate %d.baudrate write integer %n"
+msgstr "串口波特率 %d.baudrate 发送整型 %n"
+
+msgid "play built-in music - Calabash Brothers"
+msgstr "播放内置音乐 - 葫芦娃"
+
+msgid "set RF %m.IPortArd password %n"
+msgstr "设置 RF %m.IPortArd 密码 %n"
+
+msgid "set RF %m.IPortArd send %n"
+msgstr "设置 RF %m.IPortArd 发送 %n"
+
+msgid "get RF %m.IPortArd data"
+msgstr "获取 RF %m.IPortArd 数据"
+
+msgid "get RF %m.IPortArd button"
+msgstr "获取 RF %m.IPortArd 按键"
+
+msgid "get RF %m.IPortArd code"
+msgstr "获取 RF %m.IPortArd 键码"
+
+msgid "get RF %m.IPortArd gravity %m.axisArd"
+msgstr "获取 RF %m.IPortArd 重力 %m.axisArd"
+
+msgid "get RF %m.IPortArd rocker direction %m.RdirArd axis %m.RaxisArd"
+msgstr "获取 RF %m.IPortArd 摇杆 方向 %m.RdirArd 轴 %m.RaxisArd"
+
+msgid "get key pin %m.APortArd"
+msgstr "读取按键传感器 %m.APortArd"
+
+msgid "get sound pin %m.APortArd"
+msgstr "读取声音传感器 %m.APortArd"
+
+msgid "get tracking pin %m.PortArd"
+msgstr "读取循迹传感器 %m.PortArd"
+
+msgid "get distance pin %m.APortArd"
+msgstr "读取红外传感器 %m.APortArd"
+
+msgid "get ultrasonic pin %m.IPortArd"
+msgstr "读取超声波传感器 %m.IPortArd"
+
+msgid "get Color Sensor pin %m.IPortArd"
+msgstr "读取颜色传感器 %m.IPortArd"
+
+msgid "set the external buzzer pin %m.PortArd turn %m.switch"
+msgstr "设置外置蜂鸣器 端口 %m.PortArd %m.switch"
+
+msgid "set color lamp R %m.PortArd G %m.PortArd B %m.PortArd color %m.colorArd"
+msgstr "设置外置RGB彩灯 R %m.PortArd G %m.PortArd B %m.PortArd 颜色 %m.colorArd"
+
+msgid "Red"
+msgstr "红"
+
+msgid "Green"
+msgstr "绿"
+
+msgid "Blue"
+msgstr "蓝"
+
+msgid "Yellow"
+msgstr "黄"
+
+msgid "Purple"
+msgstr "紫"
+
+msgid "Cyan"
+msgstr "青"
+
+msgid "White"
+msgstr "白"
+
+msgid "GravityX"
+msgstr "X轴"
+
+msgid "GravityY"
+msgstr "Y轴"
+
+msgid "GravityZ"
+msgstr "Z轴"
+
+msgid "RockerLeft"
+msgstr "左"
+
+msgid "RockerRight"
+msgstr "右"
+
+msgid "RockerX"
+msgstr "X轴"
+
+msgid "RockerY"
+msgstr "Y轴"
+
+msgid "HIGH"
+msgstr "高电平"
+
+msgid "LOW"
+msgstr "低电平"
+
+msgid "wait %n ms"
+msgstr "等待 %n 毫秒"
+
+msgid "get sound"
+msgstr "读取内置声音传感器"
+
+# atmega2650 end
+

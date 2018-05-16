@@ -1,0 +1,318 @@
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> 
+    <!-- 
+    Smart developers always View Source. 
+    
+    This application was built using Apache Flex, an open source framework
+    for building rich Internet applications that get delivered via the
+    Flash Player or to desktops and mobile phones via Adobe AIR. 
+    
+    Learn more about Flex at http://flex.apache.org 
+    // -->
+    <head>
+        <title>${title}</title>
+        <meta name="google" value="notranslate" />         
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- Include CSS to eliminate any default margins/padding and set the height of the html element and 
+             the body element to 100%, because Firefox, or any Gecko based browser, interprets percentage as 
+             the percentage of the height of its parent container, which has to be set explicitly.  Fix for
+             Firefox 3.6 focus border issues.  Initially, don't display flashContent div so it won't show 
+             if JavaScript disabled.
+        -->
+        <style type="text/css" media="screen"> 
+            html, body  { height:100%; }
+            body { margin:0; padding:0; overflow:auto; text-align:center; 
+                   background-color: ${bgcolor}; }   
+            object:focus { outline:none; }
+            #flashContent { display:none; }
+        </style>
+        <style type="text/css">
+            .next-floor{
+                margin-top: 12px;
+            }
+            .next-span{
+                font-size: 22px;
+                font-weight: bold;
+            }
+
+            .next-floors{
+                margin-top: 10px;
+            }
+            .next-floors-span{
+                font-size: 16px;
+            }
+            .next-floor-input{
+                width: 350px;
+                height: 30px;
+                /*color: #C7C7C7;*/
+            }
+            .next-floor-button{
+                margin-top: 25px;
+            }
+            .next-floors-button{
+                width: 90px;
+                height: 50px;
+                border-radius:5px;
+            }
+
+            .next-floors-buttons{
+                width: 80px;
+                height: 40px;
+                border-radius:5px;
+                background-color: orange;
+                color: white;
+            }
+            #proListId a{
+                text-decoration:none;
+                out-line: none;
+                color: orange;
+            }
+        </style>
+        
+        <!-- Enable Browser History by replacing useBrowserHistory tokens with two hyphens -->
+        <!-- BEGIN Browser History required section -->
+        <link rel="stylesheet" type="text/css" href="history/history.css" />
+        <link rel="stylesheet" href="http://cdn.wy.by-health.com/lib/ct/ct-1.0.3-min.css" />
+        <script src="https://cdn.bootcss.com/jquery/3.3.0/jquery.min.js"></script>
+
+        <script type="text/javascript" src="history/history.js"></script>
+        <!-- END Browser History required section -->  
+            
+        <script type="text/javascript" src="swfobject.js"></script>
+        <script type="text/javascript">
+            // For version detection, set to min. required Flash Player version, or 0 (or 0.0.0), for no version detection. 
+            var swfVersionStr = "${version_major}.${version_minor}.${version_revision}";
+            // To use express install, set to playerProductInstall.swf, otherwise the empty string. 
+            var xiSwfUrlStr = "playerProductInstall.swf";
+            var flashvars = {};
+            var params = {};
+            params.quality = "high";
+            params.bgcolor = "${bgcolor}";
+            params.allowscriptaccess = "always";
+            params.allowfullscreen = "true";
+            var attributes = {};
+            attributes.id = "${application}";
+            attributes.name = "${application}";
+            attributes.align = "middle";
+            swfobject.embedSWF(
+                "${swf}.swf", "flashContent", 
+                "${width}", "${height}", 
+                swfVersionStr, xiSwfUrlStr, 
+                flashvars, params, attributes);
+            // JavaScript enabled so display the flashContent div in case it is not replaced with a swf object.
+            swfobject.createCSS("#flashContent", "display:block;text-align:left;");
+        </script>
+        <script type="text/javascript">
+            var gNewFileName;
+            var gCode;
+            function inputProjectName(code,newFileName,flag) {
+                gNewFileName=newFileName;
+                gCode=code;
+
+                if((code == '100' && flag=="true")|| code == '100'){
+                    document.getElementById("maskDiv").style.display="-webkit-box";
+                    document.getElementById("inputDiv").style.display="-webkit-box";
+                }else if(code=="100" && flag=="false"){
+                    alert("保存成功.");
+                }
+
+                //alert("kkkk");
+                //console.log("test");
+            }
+            function cancel() {
+                document.getElementById("maskDiv").style.display="none";
+                document.getElementById("inputDiv").style.display="none";
+            }
+            //var flash1 = getFlash('Scratch');
+            function save() {
+                var inputval=document.getElementById("inputval").value;
+                alert(inputval);
+                //document.getElementsByName("Scratch").receiveProjectName(inputval);
+
+
+                if($.trim(inputval)!=""){
+                    var tmp=document.getElementById("Scratch").receiveProjectName(inputval);
+                    alert("测试:"+tmp);
+                    document.getElementById("maskDiv").style.display="none";
+                    document.getElementById("inputDiv").style.display="none";
+                }
+
+            }
+            
+            function selectLoadProName() {
+                alert("selectLoadProName");
+                //var projectName="2c8f7fa4-96e0-4707-9f72-2adbabf3426a.sb2";
+                //document.getElementById("Scratch").loadProjectFromServer(projectName);
+                document.getElementById("maskDiv").style.display="-webkit-box";
+                document.getElementById("selectProDiv").style.display="-webkit-box";
+            }
+
+            function closeSelect() {
+                document.getElementById("maskDiv").style.display="none";
+                document.getElementById("selectProDiv").style.display="none";
+            }
+            
+            function loadPro(originalName,newName) {
+                alert("原名称:"+originalName);
+                alert("新名称:"+newName);
+                document.getElementById("maskDiv").style.display="none";
+                document.getElementById("selectProDiv").style.display="none";
+                document.getElementById("Scratch").loadProjectFromServer(originalName,newName);
+            }
+            
+            function uploadVideo(videoFile) {
+                console.log(videoFile);
+                alert(videoFile);
+
+                // var formData = new FormData();
+                // formData.append("FileData", videoFile);
+
+                // $.ajax({
+                //     url: "http://localhost:8081/youpinwxshare/uploadVideo",
+                //     type: "POST",
+                //     async: false,
+                //     cache: false,
+                //     data: new FormData(videoFile),
+                //     /**
+                //      *必须false才会自动加上正确的Content-Type
+                //      */
+                //     contentType: false,
+                //     /**
+                //      * 必须false才会避开jQuery对 formdata 的默认处理
+                //      * XMLHttpRequest会对 formdata 进行正确的处理
+                //      */
+                //     processData: false,
+                //     success: function (data) {
+                //         if (data.code == "100") {
+                //             alert(data.map.result_msg);
+                //         }
+                //         if (data.code == "200") {
+                //             alert(data.map.result_msg);
+                //         }
+                //     },
+                //     error: function () {
+                //         alert("上传失败！");
+                //     }
+                // });
+                return false;
+            }
+
+            function test(str) {
+                alert("返回结果是:"+str);
+            }
+        </script>
+    </head>
+    <body>
+        <!-- SWFObject's dynamic embed method replaces this alternative HTML content with Flash content when enough 
+             JavaScript and Flash plug-in support is available. The div is initially hidden so that it doesn't show
+             when JavaScript is disabled.
+        -->
+        <div class="ct-mask" style="display: none;" id="maskDiv"></div>
+        <div class="ct-pop" style="display: none;" id="inputDiv">
+            <div class="outer-layer">
+
+                <div class=".next-floor">
+                    <span class="next-span">取个名字</span>
+                </div>
+
+                <div class="next-floors">
+                    <span class="next-floors-span">给项目去个名字吧</span>
+                </div>
+
+                <div class="next-floor">
+                    <input class="next-floor-input" type="text" id="inputval" value="" placeholder="请输入项目名称"/>
+                </div>
+                <div class="next-floor-button">
+                    <input class="next-floors-button" type="button" value="取消 " onclick="cancel()"/>
+                    <input class="next-floors-buttons" type="button" value="确定" onclick="save()"/>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="ct-pop" style="display: none;" id="selectProDiv">
+            <div class="outer-layer" style="width: 97%;margin: 0 auto;">
+                <div class=".next-floor" style="width: 100%;">
+                    <span class="next-span">选择要加载的云端工程文件</span>
+                </div>
+                <div class=".next-floor" style="float: left;width: 100%;">
+                    <table style="width: 100%;" id="proListId">
+                        <tr style="height:50px;">
+                            <td style="width: 25%;"><a href="javascript:void(0);" onclick="loadPro('项目1','2c8f7fa4-96e0-4707-9f72-2adbabf3426a.sb2')">项目1</a></td>
+                            <td style="width: 25%;"><a href="javascript:void(0);" onclick="loadPro('项目2','2dde1d02-d307-4f04-9ef2-ecec1f410fb0.sb2')">项目2</a></td>
+                            <td style="width: 25%;"><a href="javascript:void(0);" onclick="loadPro('项目3','71b80c4d-3d5c-4861-8604-1a3aa18fc82b.sb2')">项目3</a></td>
+                            <td><a href="javascript:void(0);" onclick="loadPro('项目4','6163d1ea-a950-4d9f-929e-4dd3d1156584.sb2')">项目4</a></td>
+                        </tr>
+                        <tr style="height:50px;">
+                            <td style="width: 25%;"><a href="javascript:void(0);" onclick="loadPro('项目5','6644f3c1-bae4-4e58-ae73-0cb2942e8125.sb2')">项目5</a></td>
+                            <td style="width: 25%;"><a href="javascript:void(0);" onclick="loadPro('项目6','c9a3154b-b794-409e-9677-f3ed80149417.sb2')">项目6</a></td>
+                            <td style="width: 25%;"><a href="javascript:void(0);" onclick="loadPro('项目7','d9bb3640-c3ef-4fa5-b9d6-aefd9476fef6.sb2')">项目7</a></td>
+                            <td><a href="javascript:void(0);" onclick="loadPro('项目8','e9d044e1-ddd4-4002-bb4d-e58d275683c3.sb2')">项目8</a></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="next-floor-button" style="width: 100%;">
+                    <input class="next-floors-buttons" type="button" value="关闭" onclick="closeSelect()"/>
+                </div>
+            </div>
+        </div>
+
+        <div id="flashContent">
+            <p>
+                To view this page ensure that Adobe Flash Player version 
+                ${version_major}.${version_minor}.${version_revision} or greater is installed. 
+            </p>
+            <script type="text/javascript"> 
+                var pageHost = ((document.location.protocol == "https:") ? "https://" : "http://"); 
+                document.write("<a href='http://www.adobe.com/go/getflashplayer'><img src='" 
+                                + pageHost + "www.adobe.com/images/shared/download_buttons/get_flash_player.gif' alt='Get Adobe Flash player' /></a>" ); 
+            </script> 
+        </div>
+        
+        <noscript>
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="${width}" height="${height}" id="${application}">
+                <param name="movie" value="${swf}.swf" />
+                <param name="quality" value="high" />
+                <param name="bgcolor" value="${bgcolor}" />
+                <param name="allowScriptAccess" value="always" />
+                <param name="allowFullScreen" value="true" />
+                <!--[if !IE]>-->
+                <object type="application/x-shockwave-flash" data="${swf}.swf" width="${width}" height="${height}">
+                    <param name="quality" value="high" />
+                    <param name="bgcolor" value="${bgcolor}" />
+                    <param name="allowScriptAccess" value="always" />
+                    <param name="allowFullScreen" value="true" />
+                <!--<![endif]-->
+                <!--[if gte IE 6]>-->
+                    <p> 
+                        Either scripts and active content are not permitted to run or Adobe Flash Player version
+                        ${version_major}.${version_minor}.${version_revision} or greater is not installed.
+                    </p>
+                <!--<![endif]-->
+                    <a href="http://www.adobe.com/go/getflashplayer">
+                        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash Player" />
+                    </a>
+                <!--[if !IE]>-->
+                </object>
+                <!--<![endif]-->
+            </object>
+        </noscript>     
+   </body>
+</html>
